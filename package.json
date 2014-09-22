@@ -4,7 +4,7 @@
   "description": "Open a file from node-webkit easily",
   "main": "index.js",
   "scripts": {
-    "test": "tap tests/test-*.js"
+    "test": "say sorry; exit 1"
   },
   "repository": {
     "type": "git",
