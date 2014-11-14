@@ -24,9 +24,7 @@
     "url": "https://github.com/MaxGfeller/nw-open-file/issues"
   },
   "homepage": "https://github.com/MaxGfeller/nw-open-file",
-  "dependencies": {
-    "cuid": "^1.2.4"
-  },
+  "dependencies": {},
   "devDependencies": {
     "tap": "^0.4.12"
   }
